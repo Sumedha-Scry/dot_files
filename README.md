@@ -1,5 +1,7 @@
 # dot_files
 setting up new environment
 <br/>
-Use 
+Run file using <br/>
+```
 brew bundle
+```
